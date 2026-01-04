@@ -1,6 +1,15 @@
 # Project-4-MNIST
 
+
 # 🔢 MNIST Digit Identifier: An End-to-End ML Case Study
+
+<img width="758" height="1103" alt="Screenshot 2026-01-04 153445" src="https://github.com/user-attachments/assets/efd39796-c827-4eef-ba85-bbf0495f5452" />
+
+<img width="760" height="1103" alt="Screenshot 2026-01-04 153525" src="https://github.com/user-attachments/assets/72b2b8a7-e3b2-4604-b232-f8a1f33b03cd" />
+
+
+https://github.com/user-attachments/assets/dace6123-67d8-4fdc-8171-59fa64a2ef6a
+
 
 This project demonstrates a complete Machine Learning lifecycle, from training a **Convolutional Neural Network (CNN)** in Python to deploying it within a **Native Windows Desktop Application** using Flutter and TensorFlow Lite.
 
@@ -61,11 +70,13 @@ To achieve high accuracy with hand-drawn input, I developed a custom preprocessi
 cd training
 pip install -r requirements.txt
 python convert_to_tflite.py
+```
 
 ---
 
 ### Application
-
+```bash
 cd mnist_application
 flutter pub get
 flutter run -d windows
+```
