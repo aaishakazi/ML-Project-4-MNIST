@@ -1,0 +1,19 @@
+# --- Python / Training ---
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# --- Flutter / App ---
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+blobs/
+windows/flutter/ephemeral/
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.iml
