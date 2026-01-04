@@ -3,9 +3,9 @@
 
 # 🔢 MNIST Digit Identifier: An End-to-End ML Case Study
 
-<img width="500" height="800" alt="Screenshot 2026-01-04 153445" src="https://github.com/user-attachments/assets/efd39796-c827-4eef-ba85-bbf0495f5452" />
+<img width="300" height="650" alt="Screenshot 2026-01-04 153445" src="https://github.com/user-attachments/assets/efd39796-c827-4eef-ba85-bbf0495f5452" />
 
-<img width="500" height="800" alt="Screenshot 2026-01-04 153525" src="https://github.com/user-attachments/assets/72b2b8a7-e3b2-4604-b232-f8a1f33b03cd" />
+<img width="300" height="650" alt="Screenshot 2026-01-04 153525" src="https://github.com/user-attachments/assets/72b2b8a7-e3b2-4604-b232-f8a1f33b03cd" />
 
 
 https://github.com/user-attachments/assets/dace6123-67d8-4fdc-8171-59fa64a2ef6a
